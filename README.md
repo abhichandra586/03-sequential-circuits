@@ -399,4 +399,3 @@ Building a complete VLSI design portfolio from logic gates to a pipelined proces
 
 [![GitHub](https://img.shields.io/badge/GitHub-abhichandra586-181717?style=flat&logo=github)](https://github.com/abhichandra586)
 *Part of an 8-repository VLSI learning roadmap — from AND gate to 16-bit pipelined RISC processor.*
-```
